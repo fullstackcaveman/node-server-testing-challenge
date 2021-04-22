@@ -6,7 +6,6 @@ exports.seed = function (knex, Promise) {
 				{ name: 'CR90 Corvette', class: 'Corvette' },
 				{ name: 'Star Destroyer', class: 'Star Destroyer' },
 				{ name: 'Death Star', class: 'Deep Space Mobile Battlestation' },
-				{ name: 'Test Starship 1', class: 'Test Class 1' },
 			]);
 		});
 };
